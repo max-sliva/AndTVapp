@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.AndTVapp" parent="@style/Theme.Leanback" />
+</resources>
